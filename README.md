@@ -1,4 +1,4 @@
-# javascript-environment with react
+# javascript-environment
 
 Environment configuration
 - install 'editorconfig' plugin
@@ -13,10 +13,6 @@ Web development server:
 - create 'index.html' as entry point of page
 - add js for define port and open the app
 - add webpack-dev-middlware 
-
-React configuration
-- install react
-- install react-router
 
 Ordered list of steps:
 - install 'editorconfig' plugin
